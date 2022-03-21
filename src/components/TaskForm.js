@@ -28,7 +28,7 @@ function TaskForm(props) {
                 className="task-input"
                 onChange={handleChange}
             />
-            <button classname="task-button">Add Task</button>
+            <button className="task-button">Add Task</button>
         </form>
     )
 }
